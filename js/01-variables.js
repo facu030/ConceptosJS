@@ -36,4 +36,6 @@ alert("bienvenidos");
 //prompt ventana similar al alert pero podemos pedir algo al usuario, cuando doy a cancelar tengo q guardarlo en una variable, ventan es de tipo text
 const edadUsuario = prompt("ingrese su edad:");
 //guardo ese valor en una constante
+//no se pueden llamar 2 variables con el mismo nombre
+
 console.log(edadUsuario);
