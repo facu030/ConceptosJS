@@ -31,7 +31,7 @@ edad = 30 + 5;
 document.write("Edad:" + edad);
 
 //mostrar en ventanas emergentes
-alert("bienvenidos");
+alert("bienvenidos");   
 
 //prompt ventana similar al alert pero podemos pedir algo al usuario, cuando doy a cancelar tengo q guardarlo en una variable, ventan es de tipo text
 const edadUsuario = prompt("ingrese su edad:");
